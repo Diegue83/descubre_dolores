@@ -17,6 +17,7 @@ class LugaresLocalDataSource {
         descripcion: 'El lugar donde Miguel Hidalgo dio el Grito de Independencia en 1810.',
         imagenAsset: 'assets/images/parroquia.jpg',
         audioAsset: 'audio/parroquia.mp3',
+        videoAsset: 'assets/video/parroquia.mp4',
       ),
       const LugarTuristico(
         id: '3',
@@ -24,6 +25,7 @@ class LugaresLocalDataSource {
         descripcion: 'La casa donde vivio el cura Miguel Hidalgo antes de la Independencia.',
         imagenAsset: 'assets/images/museo_hidalgo.jpg',
         audioAsset: 'audio/museo_hidalgo.mp3',
+        videoAsset: 'assets/video/museo_hidalgo.mp4',
       ),
     ];
   }
